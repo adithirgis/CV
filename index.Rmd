@@ -1,0 +1,293 @@
+---
+title: "Adithi R. Upadhya's CV"
+author: Adithi R. Upadhya
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> adithiru095@gmail.com
+- <i class="fa fa-github"></i> [adithirgis](https://github.com/adithirgis)
+- <i class="fa fa-phone"></i> +91-9137364804
+- <i class="fa fa-twitter"></i> [AdithiUpadhya](https://twitter.com/AdithiUpadhya)
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-globe"></i> **Experience**: Worked on interdisplinary projects.
+
+<i class="fa fa-laptop"></i> **Programming**: R, Python, QGIS, PostgreSQL, GitHub, ArcGIS
+
+<i class="fa fa-lightbulb-o"></i> **Other**:  Data science, Statistics, Web apps, data tools
+
+
+Awards & Honors {#awards}
+--------------------------------------------------------------------------------
+
+**Primer in Methods and Ecological Research (PRiMER)**
+Sponsored by ILK Labs, 2019.
+
+**[R@IISA Conference](https://r-iisa2019.rbind.io/)**
+Travel Award, 2019
+
+**Sri Sathya Sai Institute of Higher Learning**
+Received Gold Medal - summa cum laude equivalent, 2016
+
+**Indian Academy of Sciences**
+Summer Research Fellowship Program, 2015
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Adithi R. Upadhya {#title}
+--------------------------------------------------------------------------------
+
+A Geoinformatics graduate with an interdisciplinary research background. 
+An enthusiastic R and Python developer. Working on mobile monitoring of air quality in Bangalore as a Geospatial data analyst. Currently seeking a PhD position to delve into the world of advanced Geospatial technologies and methods.
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Bharati Vidyapeeth Institute of Environmental Education and Research, Pune
+
+MSc Geoinformatics - CGPA 8.96/10 
+
+Pune, India
+
+2018
+
+<!-- Thesis: A Dynamic Web Application to Track Assets using Geospatial Technology: Asset Connect -->
+
+### Sri Sathya Sai Institute of Higher Learning 
+
+BSc Honors in Physics - CGPA 8.5/10
+
+Anantapur, India
+
+2016
+
+
+Research Experience {data-icon=users}
+--------------------------------------------------------------------------------
+
+### Air Quality
+
+Geospatial Data Analyst, ILK Labs
+
+Bangalore, India
+
+2018 - Present
+
+- Assisted in designing the study routes, collected air quality and GPS data. (Project partners: University of Washington, Seattle, University of California, Berkeley and CSTEP, India)
+- Developed data tools to clean, correct the collected data.
+- Analysed and applied models to the data.
+- Managed the data base of "big" data sets.
+- Generated high-resolution maps using QGIS.
+- Co-Founder and Co-organiser of [R-Ladies Bangalore](https://twitter.com/RLadiesBLR).
+- Peer [reviewer](https://joss.theoj.org/papers/reviewed_by/@adithirgis) for Journal of Open Source Software.
+- Volunteer for the [useR! 2021 global](https://user2021.r-project.org/about/global-team/) (Sponsorship). 
+- Facilitor of Asian Cohort of [R4DS book club](https://twitter.com/R4DScommunity). 
+
+
+### Exposure Assessment
+
+Consultant, New York Times
+
+New Delhi, India
+
+2019
+
+Consulted on a story on PM2.5 personal exposures in Delhi neighborhoods.
+
+### Velocity eztimation in the Amery Ice Shelf, Antarctica
+
+Research intern, National Centre for Polar and Ocean research 
+
+Goa, India
+
+January 2018 - July 2018
+
+- Estimated velocity from 2001 to 2018 using optical and microwave remote sensing for one of the most dynamic ice shelves in the East Antarctic region- the Amery Ice shelf system. - The techniques used are DEM-assisted co-registration pixel-offset-tracking and optical feature tracking.
+- Observed the effect of Blue Ice Areas and Elevation and Melt duration on the estimated velocity using various satellite images.
+
+
+### Asset Connect - Web application using geospatial technology
+
+Master Thesis, Bharati Vidyapeeth Institute of Environmental Education and Research
+
+Pune, India
+
+April 2017 - December 2017
+
+- Designed and developed user-friendly, interactive geographic information system  interface for inserting, editing and auditing ground-based assets using Javascript, C# and SQL to build it.
+- The methodology consisted of a five-phase approach which included data modeling of masters and transactions, spatial analysis of assets using a comprehensive system, tracking history of assets, costing and reporting to provide an advanced decision support system.
+
+
+### Gamma Spectrum decay of Tb 159
+
+Project, Sri Sathya Sai Institue of Higher Learning
+
+Anantapur, India
+
+November 2015 - February 2016
+
+- Verified the gamma spectrum decay of Tb 159 into Dy 160 using two software’s called Gamma Vision and FIT.
+
+### Quantum Logic Gates
+
+Summer research fellow, Indian Institue of Sciences
+
+Bangalore, India
+
+April 2015 - June 2015
+
+- Constructed quantum logic gates, their different types and the process of constructing them. 
+- Studied the differences between the classical and quantum logic gates and was briefly exposed to quantum teleportation.
+
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Grand Challenges Impact Lab
+
+Teaching Assistant, University of Washington
+
+Bangalore, India
+
+2019 - 2020
+
+- Assisted in projects design. 
+
+### Introduction to R Language for Beginners
+
+Instructor of R
+
+Bangalore, India
+
+2019
+
+Software package(s) {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Maintainer and creator of [mmaqshiny](https://github.com/meenakshi-kushwaha/mmaqshiny) on [CRAN](https://cran.r-project.org/web/packages/mmaqshiny/index.html).
+
+N/A
+
+N/A
+
+2020
+
+Other Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Intern
+
+WAi Technologies
+
+Pune, India
+
+July 2017 - November 2017
+
+- Designed and developed a demo android application and connected it with the backend (MSSQL) for data storage.
+
+### Intern
+
+Tata Power Ltd.
+
+Pune, India
+
+December 2016 - March 2017
+
+- Determined Landuse Land cover of Mulshi Catchment area.
+- Performed segmentation on very high-resolution images using eCognition software. 
+
+
+
+Publications Under Review {data-icon=file}
+--------------------------------------------------------------------------------
+
+### PM2.5/PM10 ratio over urban sites of India: Comparison with MERRA-2. Manuscript submitted for publication. 
+
+N/A
+ 
+N/A
+
+2020
+ 
+B S, Rao S, **Upadhya AR**, Kulkarni P, Vakacherla S. 
+
+### Impact of Covid-19 Lockdown on the fine Particulate Matter Concentration Levels: result from Bengaluru megacity, India.
+
+N/A
+
+N/A
+
+2020
+
+Vakacherla S, Kushwaha M, Kulkarni P, **Upadhya AR**, B S, Prabhu V.  
+
+
+Selected Publications and Presentations {data-icon=file}
+--------------------------------------------------------------------------------
+### Mobile-monitoring of Black Carbon and Ultrafine particles in Bangalore, India
+
+ISEE Presentation (Session: High Resolution Air Pollution Exposure Assessment)
+
+N/A
+
+2020
+
+
+### mmaqshiny v1.0: R-Shiny package to explore Air-Quality
+ 
+Journal of Open Source Software. 2020 Jun 28;5(50):2250.
+
+N/A
+
+2020 
+
+**Upadhya AR**, Agrawal P, Vakacherla S, and Kushwaha M. 
+
+### Exploring air quality data using the Shiny package
+
+R conference at International Indian Statistical Association, Presentation
+
+Mumbai, India
+
+2019
+
+### Mobile-Monitoring of Air Pollution (Black Carbon): Preliminary Results from Bangalore, India
+
+ISEE Conference Presentation 
+
+N/A
+
+2019
+
+###  Changes in Velocity of Fisher Glacier, East Antarctica using Pixel Tracking method.
+
+ISPRS Conference Presentation
+
+Dehradun, India
+
+2018
+
