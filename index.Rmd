@@ -34,11 +34,14 @@ Skills {#skills}
 Awards & Honors {#awards}
 --------------------------------------------------------------------------------
 
-**Primer in Methods and Ecological Research (PRiMER)**
-Sponsored by ILK Labs, 2019.
+**[rstudio::global(2021)](https://rstudio.com/conference/)**
+Diversity Scholarship, 2021
 
 **[R@IISA Conference](https://r-iisa2019.rbind.io/)**
 Travel Award, 2019
+
+**Primer in Methods and Ecological Research (PRiMER)**
+Sponsored by ILK Labs, 2019.
 
 **Sri Sathya Sai Institute of Higher Learning**
 Received Gold Medal - summa cum laude equivalent, 2016
@@ -60,14 +63,14 @@ Adithi R. Upadhya {#title}
 --------------------------------------------------------------------------------
 
 A Geoinformatics graduate with an interdisciplinary research background. 
-An enthusiastic R and Python developer. Working on mobile monitoring of air quality in Bangalore as a Geospatial data analyst. Currently seeking a PhD position to delve into the world of advanced Geospatial technologies and methods.
+An enthusiastic R and Python developer. Working on mobile monitoring of air quality in Bangalore as a Geospatial data analyst. Currently seeking a PhD position in geospatial data analysis.
 
 
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Bharati Vidyapeeth Institute of Environmental Education and Research, Pune
+### Bharati Vidyapeeth Institute of Environment Education and Research, Pune
 
 MSc Geoinformatics - CGPA 8.96/10 
 
@@ -89,7 +92,7 @@ Anantapur, India
 Research Experience {data-icon=users}
 --------------------------------------------------------------------------------
 
-### Air Quality
+### Data Science and Modelling
 
 Geospatial Data Analyst, ILK Labs
 
@@ -102,7 +105,26 @@ Bangalore, India
 - Analysed and applied models to the data.
 - Managed the database of big data sets.
 - Generated high-resolution maps using QGIS.
-- Co-Founder and Co-organiser of [R-Ladies Bangalore](https://twitter.com/RLadiesBLR).
+
+### Elephant Atlas
+
+Asian Nature Conservation Foundation, GIS Consultant
+
+Bangalore, India
+
+2020 - Present
+
+In progress : Elephant Atlas for the Karnatake State.
+
+### Other Community
+
+Service
+
+Remote
+
+2020 - Present
+
+- Co-founder and Co-organiser of [R-Ladies Bangalore](https://twitter.com/RLadiesBLR).
 - Peer [reviewer](https://joss.theoj.org/papers/reviewed_by/@adithirgis) for Journal of Open Source Software.
 - Volunteer for the [useR! 2021 global](https://user2021.r-project.org/about/global-team/) (Sponsorship). 
 - Facilitor of Asian Cohort of [R4DS book club](https://twitter.com/R4DScommunity). 
@@ -132,7 +154,7 @@ January 2018 - July 2018
 
 ### Asset Connect - Web application using geospatial technology
 
-Master Thesis, Bharati Vidyapeeth Institute of Environmental Education and Research
+Master Thesis, Bharati Vidyapeeth Institute of Environment Education and Research
 
 Pune, India
 
@@ -180,7 +202,7 @@ Bangalore, India
 
 ### Introduction to R Language for Beginners
 
-Instructor of R
+Instructor
 
 Bangalore, India
 
@@ -189,13 +211,23 @@ Bangalore, India
 Software package(s) {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Maintainer and creator of [mmaqshiny](https://github.com/meenakshi-kushwaha/mmaqshiny) on [CRAN](https://cran.r-project.org/web/packages/mmaqshiny/index.html).
-
-N/A
+### R package
+Maintainer and creater of [mmaqshiny](https://github.com/meenakshi-kushwaha/mmaqshiny) on [CRAN](https://cran.r-project.org/web/packages/mmaqshiny/index.html).
 
 N/A
 
 2020
+
+
+
+### Application
+Maintainer of [Pollucheck](https://github.com/adithirgis/OpenSourceAirQualityApp).
+
+N/A
+
+2020
+
+
 
 Other Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -257,6 +289,15 @@ N/A
 
 2020
 
+### Indoor & outdoor PM2.5 concentrations in Chennai, India prior to & during the COVID-19 lockdown 
+
+ISEE Poster 
+
+N/A
+
+2020
+
+Puttaswamy N, Vakacherla S, Pillarisetti A, **Upadhya AR**, Veerapan B, Saidam S, Sutaria R, Mukhopadhyay K, Sambandam S, Balakrishnan K.
 
 ### mmaqshiny v1.0: R-Shiny package to explore Air-Quality
  
@@ -272,7 +313,7 @@ N/A
 
 R conference at International Indian Statistical Association, Presentation
 
-Mumbai, India
+N/A
 
 2019
 
